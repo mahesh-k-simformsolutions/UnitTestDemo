@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnitTestDemo/bin/
+/UnitTestDemo/.vs/
+/UnitTestDemo/obj/
+/Database/bin/Debug/net5.0/Demo.Database.deps.json
+/Database/bin/Debug/net5.0
+/Database/obj/Debug/net5.0/Demo.Database.assets.cache
+/Database/obj/Demo.Database.csproj.nuget.dgspec.json
+/Database/obj/Demo.Database.csproj.nuget.g.props
+/Database/obj/Demo.Database.csproj.nuget.g.targets
+/Demo.xUnit/bin/Debug/net5.0
+/Demo.xUnit/obj

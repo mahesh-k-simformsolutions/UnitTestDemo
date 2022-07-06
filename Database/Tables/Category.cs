@@ -11,7 +11,7 @@ namespace Database.Tables
     {
         [Key]
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         public List<Product> Products { get; set; }
     }

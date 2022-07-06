@@ -5803,9 +5803,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahesh.Kantariya\\source\\repos\\UnitTestDemo\\Database\\Database.csproj",
-      "projectName": "Database",
-      "projectPath": "C:\\Users\\Mahesh.Kantariya\\source\\repos\\UnitTestDemo\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Users\\Mahesh.Kantariya\\source\\repos\\UnitTestDemo\\Database\\Demo.Database.csproj",
+      "projectName": "Demo.Database",
+      "projectPath": "C:\\Users\\Mahesh.Kantariya\\source\\repos\\UnitTestDemo\\Database\\Demo.Database.csproj",
       "packagesPath": "C:\\Users\\Mahesh.Kantariya\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mahesh.Kantariya\\source\\repos\\UnitTestDemo\\Database\\obj\\",
       "projectStyle": "PackageReference",
